@@ -1,0 +1,193 @@
+# Compiled source code
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+.sqlite3
+*.db
+db.sqlite3
+db.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Application specific files
+node_modules/
+bower_components/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+/.mvn/
+/target/
+/build/
+/out/
+/dist/
+/vendor/
+/public/
+/.env
+
+# Python files
+*.egg
+*.egg-info
+.eggs
+*.whl
+.Python
+.pytest_cache/
+.pyenv
+/.tox/
+/pip-wheel-metadata/
+/poetry.lock
+
+# Virtual Environment
+venv/
+.env/
+env/
+
+# JavaScript files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/coverage/
+/.cache/
+
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+/build/
+
+# Ruby files
+*.gem
+*.rbc
+/.bundle/
+/log/
+/tmp/
+/vendor/bundle/
+/vendor/cache/
+
+# Go files
+*.exe
+*.out
+
+# PHP files
+/vendor/
+/composer.lock
+
+# C++ files
+*.obj
+*.elf
+
+# C# files
+*.exe
+*.pdb
+*.mdb
+*.csproj.user
+*.csproj.vspscc
+*.csproj.webinfo
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+/.vs/
+/*.DotSettings.user
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux specific files
+*.pid
+*.seed
+*.backup
+*.old
+
+# IDE specific files
+.vscode/
+/.idea/
+/*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+.envrc
+/.env
+/.env.*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+*.swo
+*.swn
+
+# Hidden files
+.*
+!.gitignore
+!.gitattributes
+
+# Distribution files
+dist/
+build/
+
+# Static content
+/static/
+/public/assets/
+/assets/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Git
+.git/
+
+# Other files
+*.crt
+*.pem
+*.key
+*.p12
+*.csr
+*.der
+*.srl
+README
+README.md
